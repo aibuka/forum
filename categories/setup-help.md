@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Setup Help
+title: 综合讨论
 category: true
 summary: Get help setting up the Jekyll Disqus Forum
 id: 2736938
